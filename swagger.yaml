@@ -1,0 +1,97 @@
+swagger: '2.0'
+info:
+  title: Push Server - API
+  description: API com todos os servi&ccedil;os dispon&iacute;veis para envio de pushs
+  version: "v1"
+  contact:
+    name: Diego Thomaz de Souza
+    email: messiahh@gmail.com
+
+host: localhost
+
+schemes:
+  - http
+  - https
+basePath: /cuidabrasilpushnotificationserver/api/v1
+produces:
+  - application/json
+paths:
+#autenticacao TF
+
+  /push/send:
+    post:
+      summary: Procedimento de envio de push
+      description: |
+        Envia pushs para a lista recebida
+      tags:
+        - Push
+      parameters:
+        - name: Authorization
+          in: header
+          description: Token de identifica&ccedil;&atilde;o do usu&aacute;rio.
+          required: true
+          type: string
+          default:
+        - name: Request Body
+          in: body
+          description: Dados do usuario e senha
+          required: true
+          schema:
+              $ref: '#/definitions/ReqPushSendDef'
+      responses:
+        200:
+          description: Retorna os dados do usuario com dois fatores.
+          schema:
+              $ref: '#/definitions/BadRequestDef'
+        400:
+          description: Falha no envio
+          schema:
+              $ref: '#/definitions/BadRequestDef'
+        default:
+          description: Unexpected error
+          schema:
+            $ref: '#/definitions/BadRequestDef'
+            
+#Definicao
+definitions:
+
+  ReqPushSendDef:
+    type: object
+    properties:
+      tokenId:
+        description: Lista de tokens do app que devem receber o push
+        type: array
+        items:
+          type: string
+      notification:
+        description: Configuraoes do usuario.
+        $ref: '#/definitions/NotificationDef'   
+      priority:
+        type: string
+        description: nivel de prioridade de entrega high ou normal
+
+  NotificationDef:
+    type: object
+    properties:
+      title:
+        type: string
+        description: titulo do push
+      body:
+        type: string
+        description: texto do push
+      sound:
+        type: string
+        description: som emitido caso seja o padrao envie default
+
+  BadRequestDef:
+    type: object
+    properties:
+      status:
+        type: string
+        description: Status do retorno. Exemplo (BAD_REQUEST)
+      error:
+        type: string
+        description: Lista de erros ocorrido. Exemplo (Usu&aacute;rio ou senha incorretos!)
+      message:
+        type: string
+        description: Mensagem do retorno do erro ocorrido. Exemplo (Usu&aacute;rio ou senha incorretos!)
