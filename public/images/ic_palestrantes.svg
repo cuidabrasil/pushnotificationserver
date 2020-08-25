@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+      clip-path: url(#clip-ic_palestrantes);
+      }
+
+      .cls-2 {
+      fill: #b8c7ce;
+      }
+    </style>
+    <clipPath id="clip-ic_palestrantes">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="ic_palestrantes" class="cls-1">
+    <g id="mortarboard" transform="translate(0.001 -237.612)">
+      <g id="Agrupar_543" data-name="Agrupar 543" transform="translate(-0.001 263.612)">
+        <path id="Caminho_478" data-name="Caminho 478" class="cls-2" d="M255.6,485.628V469.912l-25.16,5.06a15.669,15.669,0,0,1-6.084,0l-25.16-5.06v15.716c0,4.066,12.625,7.366,28.2,7.366S255.6,489.7,255.6,485.628Z" transform="translate(-179.397 -449.404)"/>
+        <path id="Caminho_479" data-name="Caminho 479" class="cls-2" d="M94.009,272.628l-43.55-8.768A12.69,12.69,0,0,0,48,263.612a12.025,12.025,0,0,0-2.455.249L2,272.628A2.483,2.483,0,0,0,2,277.5l17.8,3.579,25.746,5.179a12.687,12.687,0,0,0,2.455.248,12.034,12.034,0,0,0,2.455-.248L76.2,281.078l8.012-1.61V298.1a4.523,4.523,0,1,0,5.964,0V278.264l3.827-.765A2.485,2.485,0,0,0,94.009,272.628Z" transform="translate(0.001 -263.612)"/>
+      </g>
+    </g>
+  </g>
+</svg>

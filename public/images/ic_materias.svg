@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+      clip-path: url(#clip-ic_materias);
+      }
+
+      .cls-2, .cls-5 {
+      fill: none;
+      }
+
+      .cls-2 {
+      stroke: #b8c7ce;
+      stroke-width: 3px;
+      }
+
+      .cls-3 {
+      fill: #b8c7ce;
+      }
+
+      .cls-4 {
+      stroke: none;
+      }
+    </style>
+    <clipPath id="clip-ic_materias">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="ic_materias" class="cls-1">
+    <g id="Agrupar_1025" data-name="Agrupar 1025" transform="translate(-261 -741)">
+      <g id="Retângulo_553" data-name="Retângulo 553" class="cls-2" transform="translate(270 741)">
+        <rect class="cls-4" width="78.545" height="96" rx="10"/>
+        <rect class="cls-5" x="1.5" y="1.5" width="75.545" height="93" rx="8.5"/>
+      </g>
+      <rect id="Retângulo_554" data-name="Retângulo 554" class="cls-3" width="61.091" height="52.364" rx="6" transform="translate(278.727 775.909)"/>
+      <rect id="Retângulo_555" data-name="Retângulo 555" class="cls-3" width="61.091" height="8.727" rx="4" transform="translate(278.727 758.455)"/>
+    </g>
+  </g>
+</svg>

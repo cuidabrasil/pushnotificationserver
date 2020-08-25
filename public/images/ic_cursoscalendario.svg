@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+      clip-path: url(#clip-ic_cursoscalendario);
+      }
+
+      .cls-2 {
+      fill: #b8c7ce;
+      }
+    </style>
+    <clipPath id="clip-ic_cursoscalendario">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="ic_cursoscalendario" class="cls-1">
+    <g id="_003-event" data-name="003-event" transform="translate(5 0.534)">
+      <g id="Agrupar_36" data-name="Agrupar 36" transform="translate(0)">
+        <g id="Agrupar_35" data-name="Agrupar 35">
+          <path id="Caminho_113" data-name="Caminho 113" class="cls-2" d="M97.706,9.547H92.933V0H83.386V9.547H45.2V0H35.653V9.547H30.88a9.5,9.5,0,0,0-9.5,9.547L21.333,85.92a9.544,9.544,0,0,0,9.547,9.547H97.706a9.544,9.544,0,0,0,9.547-9.547V19.093A9.544,9.544,0,0,0,97.706,9.547Zm0,76.373H30.88V33.413H97.706Z" transform="translate(-21.333)"/>
+          <path id="Caminho_114" data-name="Caminho 114" class="cls-2" d="M158.946,197.06l-5.06-5.06-23.294,23.294-10.119-10.119-5.06,5.06,15.179,15.179Z" transform="translate(-94.363 -149.04)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

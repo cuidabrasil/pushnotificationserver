@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+      clip-path: url(#clip-ic_enquetes);
+      }
+
+      .cls-2 {
+      fill: #b8c7ce;
+      }
+    </style>
+    <clipPath id="clip-ic_enquetes">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="ic_enquetes" class="cls-1">
+    <g id="_001-survey" data-name="001-survey" transform="translate(0 4)">
+      <g id="Agrupar_258" data-name="Agrupar 258" transform="translate(0 0)">
+        <g id="Agrupar_257" data-name="Agrupar 257">
+          <path id="Caminho_437" data-name="Caminho 437" class="cls-2" d="M108.663,217.328h43.943a2,2,0,1,0,0-3.995H108.663a2,2,0,0,0,0,3.995Z" transform="translate(-86.64 -177.33)"/>
+          <path id="Caminho_438" data-name="Caminho 438" class="cls-2" d="M132.632,341.333H108.664a2,2,0,1,0,0,3.995h23.969a2,2,0,1,0,0-3.995Z" transform="translate(-86.655 -281.329)"/>
+          <path id="Caminho_439" data-name="Caminho 439" class="cls-2" d="M88.344,45.333c-.116,0-.228.029-.344.035V29.333a8.009,8.009,0,0,0-8-8H8a8.009,8.009,0,0,0-8,8v72a8.009,8.009,0,0,0,8,8H80a8.009,8.009,0,0,0,8-8V64.161L93.758,58.4v0a7.656,7.656,0,0,0-5.414-13.069ZM26,29.333a2,2,0,1,1-2,2A2,2,0,0,1,26,29.333Zm-8,0a2,2,0,1,1-2,2A2,2,0,0,1,18,29.333Zm-8,0a2,2,0,1,1-2,2A2,2,0,0,1,10,29.333Zm70,72H8v-60H80V50.5L61.169,69.334H22a2,2,0,0,0,0,4H57.96l-1.921,9.608A2,2,0,0,0,58,85.334a2.043,2.043,0,0,0,.391-.039l10-2a1.988,1.988,0,0,0,1.023-.547L80,72.16Zm5.172-40L80,56.161l2.828-2.828L88,58.505Z" transform="translate(0 -21.333)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

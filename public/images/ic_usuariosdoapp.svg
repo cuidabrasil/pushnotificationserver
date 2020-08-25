@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+      clip-path: url(#clip-ic_usuariosdoapp);
+      }
+
+      .cls-2 {
+      fill: #b8c7ce;
+      }
+    </style>
+    <clipPath id="clip-ic_usuariosdoapp">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="ic_usuariosdoapp" class="cls-1">
+    <g id="man-user" transform="translate(-30.895)">
+      <path id="Caminho_474" data-name="Caminho 474" class="cls-2" d="M123.863,46.95c10.674,0,19.327-10.51,19.327-23.475S140.348,0,123.863,0s-19.328,10.51-19.328,23.475S113.188,46.95,123.863,46.95Z" transform="translate(-45.459)"/>
+      <path id="Caminho_475" data-name="Caminho 475" class="cls-2" d="M41.9,300.778c0-.791-.007-.223,0,0Z" transform="translate(0 -217.984)"/>
+      <path id="Caminho_476" data-name="Caminho 476" class="cls-2" d="M308.085,302.2c.01-.216,0-1.5,0,0Z" transform="translate(-193.178 -218.793)"/>
+      <path id="Caminho_477" data-name="Caminho 477" class="cls-2" d="M114.875,210.834c-.358-22.585-3.308-29.021-25.879-33.094,0,0-3.177,4.049-10.583,4.049s-10.584-4.049-10.584-4.049C45.5,181.769,42.375,188.109,41.963,210.1c-.034,1.8-.049,1.89-.055,1.682,0,.391,0,1.113,0,2.373,0,0,5.374,10.833,36.5,10.833s36.5-10.833,36.5-10.833c0-.809,0-1.372,0-1.755A14.5,14.5,0,0,1,114.875,210.834Z" transform="translate(-0.009 -128.988)"/>
+    </g>
+  </g>
+</svg>

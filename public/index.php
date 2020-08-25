@@ -8,6 +8,8 @@
  */
 
 define('LARAVEL_START', microtime(true));
+define('REST_API_ROOT', '/api/v1/');
+define('ROCKET_CHAT_INSTANCE', 'http://10.19.4.181:3000');
 
 /*
 |--------------------------------------------------------------------------

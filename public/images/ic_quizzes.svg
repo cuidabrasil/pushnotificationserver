@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+      clip-path: url(#clip-ic_quizzes);
+      }
+
+      .cls-2 {
+      fill: #b8c7ce;
+      }
+    </style>
+    <clipPath id="clip-ic_quizzes">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="ic_quizzes" class="cls-1">
+    <g id="check-circle-07" transform="translate(0 1)">
+      <path id="Caminho_563" data-name="Caminho 563" class="cls-2" d="M85.148,31.887c-2.087.417-3.339,2.922-2.922,5.009a41.167,41.167,0,0,1,1.252,10.018A37.565,37.565,0,1,1,45.913,9.348,39.537,39.537,0,0,1,65.53,14.774a4.493,4.493,0,0,0,5.843-1.252,4.493,4.493,0,0,0-1.252-5.844A50.306,50.306,0,0,0,45.913,1,45.914,45.914,0,1,0,91.826,46.914a38.594,38.594,0,0,0-1.67-12.1C89.739,32.722,87.235,31.47,85.148,31.887Z" transform="translate(0 0)"/>
+      <path id="Caminho_564" data-name="Caminho 564" class="cls-2" d="M75.7,3.252a4.035,4.035,0,0,0-5.843,0L26.87,46.244,13.1,32.47a4.035,4.035,0,0,0-5.843,0,4.035,4.035,0,0,0,0,5.844l16.7,16.7a4.509,4.509,0,0,0,2.922,1.252,4.509,4.509,0,0,0,2.922-1.252L75.7,9.1A4.035,4.035,0,0,0,75.7,3.252Z" transform="translate(19.043 3.174)"/>
+    </g>
+  </g>
+</svg>
